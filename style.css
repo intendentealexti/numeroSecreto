@@ -50,7 +50,7 @@ body::before {
 
 .container__informacoes {
     flex: 1;
-    padding: 3rem;
+    padding: 1rem;
 }
 
 .container__botao {
@@ -92,8 +92,8 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
-    padding-bottom: 3rem;
+    font-size: 50px;
+    padding: 0.8rem;
 }
 
 p,
@@ -102,7 +102,7 @@ button {
 }
 
 .texto__paragrafo {
-    font-size: 32px;
+    font-size: 25px;
     font-weight: 400;
 }
 
