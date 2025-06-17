@@ -27,7 +27,7 @@ The game is designed to find the correct number between 1 and 10, with a feature
 
 ## ✉️ Author
 
-Alexander Menezes
+Alexânder Menezes
 
 
 
